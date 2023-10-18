@@ -1,0 +1,12 @@
+virt/
+.vscode/
+build/
+__pycache__/
+project_files/
+.env
+omo_recruitmnt_module_models.png
+Omo_vacancy_module.rar
+UI_design/
+__pycache__/
+migrations/
+documentations/
