@@ -3,7 +3,3 @@ This repository contains the documentaions and the source files for the vacancy 
 ## About
 An internship project to:
 - Develop the recruitment module of HRMS for Omo Bank.
-## Authors
-- Dagim Alemayehu
-- Kidist Tesfaye
-- Yared Fekade
